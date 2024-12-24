@@ -5,7 +5,7 @@ setup(
     version='1.0.0', 
     description='Learn words easily with a simple word management tool',
     author='Sinan Uygun',
-    author_email='sinanuygun00124@gmail.com',  
+    author_email='sinanuygun00125@gmail.com',  
     url='https://github.com/sinanuygunn/easyword',  
     packages=['easyword', 'commands', 'components'], 
     include_package_data=True, 
