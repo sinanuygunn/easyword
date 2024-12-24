@@ -9,7 +9,7 @@ from components import *
 parser = argparse.ArgumentParser(
                     prog='easyword',
                     description='Learn words easily with a simple word management tool',
-                    epilog='Author: github.com/sinanuygunn'
+                    epilog='-'
                     )
 
 parser.add_argument('-aw', '--addword', help="adds a word to the database", nargs=2, metavar=("WORD", "MEANING"))
