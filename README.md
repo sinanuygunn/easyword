@@ -1,7 +1,7 @@
 # easyword
 
 <p align="center">
-  <img src="https://github.com/sinanuygunn/easyword/blob/main/easyword/resources/logo.png">
+  <img width="150" height="150" src="https://github.com/sinanuygunn/easyword/blob/main/easyword/resources/logo.png">
 </p>
 
 a simple flashcard app for your terminal.
