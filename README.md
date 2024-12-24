@@ -1,4 +1,3 @@
 # SUEasyWord
 
-run make.bat and 
-type easyword -h
+download and type pip install .
