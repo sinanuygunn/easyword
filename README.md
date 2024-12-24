@@ -1,4 +1,4 @@
-# SUEasyWord
+# easyword
 
 download and type pip install .
 
