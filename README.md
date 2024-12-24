@@ -1,5 +1,8 @@
 # easyword
 
+a simple flashcard app for your terminal.
+it can translate words and ask questions randomly.
+
 download and type pip install .
 
 ```
