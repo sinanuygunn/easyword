@@ -1,8 +1,10 @@
 # easyword
 
 <p align="center">
-  <img width="150" height="150" src="https://github.com/sinanuygunn/easyword/blob/main/easyword/resources/logo.png">
+  <img width="400" height="400" src="https://github.com/sinanuygunn/easyword/blob/main/easyword/resources/logo.png">
 </p>
+
+
 
 a simple flashcard app for your terminal.
 it can translate words and ask questions randomly.
