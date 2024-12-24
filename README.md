@@ -2,7 +2,7 @@
 
 download and type pip install .
 
-
+```
 C:\Users\Sinan>easyword -h
 usage: easyword [-h] [-aw WORD MEANING] [-ew WORD MEANING] [-rw WORD] [-pr [PLAYRANDOM ...]] [-wa [WRITEALLWORDS ...]]
                 [-tw WORD LANGUAGE] [-wl [WRITELANGUAGES ...]] [-ra [REMOVEALLWORDS ...]]
@@ -27,3 +27,4 @@ options:
                         lists all supported languages for translation
   -ra [REMOVEALLWORDS ...], --removeallwords [REMOVEALLWORDS ...]
                         removes all words from the database
+```
